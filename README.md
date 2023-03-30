@@ -1,4 +1,4 @@
-# For Keshav
+# For Keshav 😜
 
 ### Running on Local Machine
 
@@ -8,7 +8,7 @@
 git clone https://github.com/BioHazard786/Redipay-Landing-Page Redipay-Landing-Page/ && cd Redipay-Landing-Page
 ```
 
--Install dependencies of project
+- Install dependencies of project -
 
 ```
 npm i
